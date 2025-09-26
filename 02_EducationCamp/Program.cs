@@ -123,6 +123,35 @@ namespace _02_EducationCamp
 
             #region Keyboard Entering For Integer Variables and Transformations
 
+            //int shoesPrice, computerPrice, 
+            //    chairPrice, tvPrice;
+
+            //shoesPrice = 1000;
+            //computerPrice = 21000;
+            //chairPrice = 5000;
+            //tvPrice = 25000;
+
+            //int shoesCount, computerCount,
+            //    chairCount, tvCount;
+
+            //Console.WriteLine("Please enter the number of shoes you purchased:");
+            //shoesCount = int.Parse(Console.ReadLine());
+
+            //Console.WriteLine("Please enter the number of computer you purchased:");
+            //computerCount = int.Parse(Console.ReadLine());
+
+            //Console.WriteLine("Please enter the number of chair you purchased:");
+            //chairCount = int.Parse(Console.ReadLine());
+
+            //Console.WriteLine("Please enter the number of tv you purchased:");
+            //tvCount = int.Parse(Console.ReadLine());
+
+            //int totalPrice = shoesCount * shoesPrice + computerCount * computerPrice + 
+            //    chairCount * chairPrice + tvCount * tvPrice;
+
+            //Console.WriteLine();
+
+            //Console.WriteLine("Total of Paying: " + totalPrice);
 
 
 
