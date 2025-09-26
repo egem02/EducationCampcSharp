@@ -131,7 +131,7 @@ namespace _01_EducationSubjects
             //Console.WriteLine("Fries Total: " + totalfriesPrice + "TL");
             //Console.WriteLine("Water Total: " + totalwaterPrice + "TL");
             //Console.WriteLine("Lemonade Total: " + totallemonadePrice + "TL");
-            
+
             //Console.WriteLine();
 
             //int totalPrice = totalcokePrice + totalfriesPrice + totalpizzaPrice 
@@ -139,6 +139,7 @@ namespace _01_EducationSubjects
             //Console.WriteLine("Total Price: " + totalPrice + "TL");
 
             #endregion
+        
             Console.Read();
         }
     }

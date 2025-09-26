@@ -156,6 +156,30 @@ namespace _02_EducationCamp
 
 
             #endregion
+
+            #region Decimal number operations from the keyboard
+            
+            //double exam1, exam2, exam3 , result ;
+            //Console.WriteLine("Please enter your first exam result: ");
+            //exam1 = double.Parse(Console.ReadLine());
+
+            //Console.WriteLine("Please enter your second exam result: ");
+            //exam2 = double.Parse(Console.ReadLine());
+
+            //Console.WriteLine("Please enter your third exam result: ");
+            //exam3 = double.Parse(Console.ReadLine());
+
+            //result = (exam1 + exam2 + exam3) / 3;
+            //Console.WriteLine();
+
+            //Console.WriteLine("Your Score from Exams: " + result);
+            
+            
+            
+            
+            
+            
+            #endregion
             Console.Read();
 
 
