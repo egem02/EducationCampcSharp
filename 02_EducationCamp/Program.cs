@@ -158,7 +158,7 @@ namespace _02_EducationCamp
             #endregion
 
             #region Decimal number operations from the keyboard
-            
+
             //double exam1, exam2, exam3 , result ;
             //Console.WriteLine("Please enter your first exam result: ");
             //exam1 = double.Parse(Console.ReadLine());
@@ -173,13 +173,25 @@ namespace _02_EducationCamp
             //Console.WriteLine();
 
             //Console.WriteLine("Your Score from Exams: " + result);
-            
-            
-            
-            
-            
-            
+
+
+
+
+
+
             #endregion
+
+
+            #region Character operations from the keyboard
+
+            //char gender;
+            //Console.WriteLine("Please enter your gender: ");
+            //gender =  char.Parse(Console.ReadLine());
+
+            //Console.WriteLine("Your gender:  " + gender);
+            //#endregion
+
+
             Console.Read();
 
 
