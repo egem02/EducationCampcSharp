@@ -63,16 +63,70 @@ namespace _02_EducationCamp
             //    + " - Total price: " + potatoTotalPrice);
             //Console.WriteLine("Added Product: tomato -  " + "Unit Price: " + tomatoPrice + " - Gram: " + tomatoGram 
             //    + " - Total price: " + tomatoTotalPrice);
-          
+
             //double shoppingTotalPrice = appleTotalPrice + orangeTotalPrice +
             //    strawberryTotalPrice + potatoTotalPrice  + tomatoPrice;
 
             //Console.WriteLine();
             //Console.WriteLine();
             //Console.WriteLine("Shopping Total Budget: " + shoppingTotalPrice + "TL");
-        #endregion
+            #endregion
+
+            #region Char Variables
+
+            //char symbol;
+            //symbol = 'a';
+            //Console.WriteLine(symbol);
 
 
+
+
+
+            #endregion
+
+            #region Keyboard Entering for String Variables 
+
+            //Console.WriteLine("----- Csharp Airlines Passenger Information -----");
+            //Console.WriteLine();
+
+            //string passengerName, passengerSurname, passengerDistrict, 
+            //    passengerCity, passengerAge, passengerIdentityNumber;
+
+            //Console.Write("Passenger Name: ");
+            //passengerName = Console.ReadLine();
+
+            //Console.Write("Passenger Surname: ");
+            //passengerSurname = Console.ReadLine();
+
+            //Console.Write("District Information: ");
+            //passengerDistrict = Console.ReadLine();
+
+            //Console.WriteLine("City Information: ");
+            //passengerCity = Console.ReadLine();
+
+
+            //Console.WriteLine("Passenger Age: ");
+            //passengerAge = Console.ReadLine();
+
+            //Console.WriteLine("Passenger TRNC Identity Number: ");
+            //passengerIdentityNumber = Console.ReadLine();
+
+            //Console.WriteLine();
+
+            //Console.WriteLine("----------------------");
+            //Console.WriteLine("Passenger TRNC: " + passengerIdentityNumber + " " + 
+            //    "Passenger Name Surname: " + passengerName + " " + passengerSurname +
+            //   " " + passengerDistrict + "/" + passengerCity + " " + passengerAge);
+
+
+            #endregion
+
+            #region Keyboard Entering For Integer Variables and Transformations
+
+
+
+
+            #endregion
             Console.Read();
 
 
