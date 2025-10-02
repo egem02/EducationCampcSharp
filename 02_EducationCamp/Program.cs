@@ -192,9 +192,10 @@ namespace _02_EducationCamp
             //#endregion
 
 
-            Console.Read();
+           // Console.Read();
 
 
         }
+        #endregion
     }
 }
