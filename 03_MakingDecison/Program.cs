@@ -297,7 +297,7 @@ namespace _03_MakingDecison
             //}
               
             #endregion
-            Console.Read();
+           // Console.Read();
         }
     }
 }
